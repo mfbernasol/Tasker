@@ -1,2 +1,5 @@
-# Tasker
- A simple iOS To-Do List app that allows users to create different categories and add new To-Do list items to each category. Built with Swift using the MVC design pattern and Realm for local data storage.
+# Tasker 
+ A minimal to-do list mobile app built with Swift.
+ # Development Notes 
+ Built with Swift using MVC design pattern and implemented data persistence with Realm database
+   
